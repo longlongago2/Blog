@@ -22,3 +22,8 @@ filename.substring(filename.lastIndexOf('.')); // 取文件名后缀
 ```html
 <a href="mailto:xxxx@163.com?subject=[此处标题]&body=[此处内容]">单击此处打开邮箱</a>
 ```
+
+## 四、判断数据类型
+```javascript
+Object.prototype.toString.call('xxx')
+```
