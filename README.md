@@ -41,8 +41,6 @@ function useTable() {
 ```
 
 ## 六、toFixed 精确计算，四舍五入精度问题
-```javascript
+
 [Javascript toFixed Not Rounding](https://stackoverflow.com/questions/10015027/javascript-tofixed-not-rounding)
 [JavaScript 中精度问题以及解决方案](https://www.runoob.com/w3cnote/js-precision-problem-and-solution.html)
-
-```
